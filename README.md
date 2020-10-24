@@ -1,2 +1,2 @@
 # algorithm-data-structure
-binary tree traversal
+binary tree traversal.
